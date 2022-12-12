@@ -1,0 +1,3 @@
+﻿  FF2.cpp
+D:\VsC++\FF2\FF2\FF2.cpp(29,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VsC++\FF2\FF2\FF2.cpp(149,19): error C3861: readData: идентификатор не найден
